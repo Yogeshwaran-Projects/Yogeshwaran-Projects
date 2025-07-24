@@ -3,7 +3,7 @@
 
 <h1>Hello World!, I'm Yogeshwaran 👋🏼</h1>
 <ul>
-  <li>🎓 Pre-final year student in Computer Science and Design</li>
+  <li>🎓 Final year student in Computer Science and Design</li>
   <li>💻 Passionate software engineer and AI enthusiast</li>
   <li>🏗️ Freelancer with 50+ projects, including ML models and final-year projects</li>
   <li>🛠️ Developed my own toy compiler-like programming language <b>Y++</b></li>
